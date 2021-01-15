@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE keyboardmap>
+            <keyboardmap version="1.0">
+            
+        <mapping key="1" note="53" />
+<mapping key="2" note="55" />
+<mapping key="3" note="57" />
+<mapping key="4" note="59" />
+<mapping key="Tab" note="46" />
+<mapping key="Q" note="48" />
+<mapping key="W" note="50" />
+<mapping key="E" note="52" />
+<mapping key="R" note="54" />
+<mapping key="T" note="56" />
+<mapping key="CapsLock" note="41" />
+<mapping key="A" note="43" />
+<mapping key="S" note="45" />
+<mapping key="D" note="47" />
+<mapping key="F" note="49" />
+<mapping key="G" note="51" />
+<mapping key="LeftShift" note="36" />
+<mapping key="Z" note="38" />
+<mapping key="X" note="40" />
+<mapping key="C" note="42" />
+<mapping key="V" note="44" />
+<mapping key="F5" note="70" />
+<mapping key="F6" note="72" />
+<mapping key="F7" note="74" />
+<mapping key="7" note="65" />
+<mapping key="8" note="67" />
+<mapping key="9" note="69" />
+<mapping key="0" note="71" />
+<mapping key="-" note="73" />
+<mapping key="Y" note="58" />
+<mapping key="U" note="60" />
+<mapping key="I" note="62" />
+<mapping key="O" note="64" />
+<mapping key="P" note="66" />
+<mapping key="[" note="68" />
+<mapping key="H" note="53" />
+<mapping key="J" note="55" />
+<mapping key="K" note="57" />
+<mapping key="L" note="59" />
+<mapping key=";" note="61" />
+<mapping key="'" note="63" />
+<mapping key="N" note="48" />
+<mapping key="M" note="50" />
+<mapping key="," note="52" />
+<mapping key="." note="54" />
+<mapping key="/" note="56" />
+        </keyboardmap>
