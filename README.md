@@ -57,6 +57,7 @@ C4 is N, F4 is H, Bb4 is U, F5 is 7, and Bb5 is F5
 
 Based on these resources, because I do not know much about music or musical instruments:
 
+* https://www.youtube.com/watch?v=Qqmvrv2h2Fs
 * https://www.youtube.com/watch?v=1LTRErsh2kU
 * https://www.buttonbox.com/images/elise-notechart.png
 
