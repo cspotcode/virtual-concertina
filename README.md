@@ -28,7 +28,7 @@ Press keyboard keys and notes should play.  A simple major scale starting with m
 
 ## Concertina layout
 
-There seem to be many different types of Concertina.  Below is the layout used here:
+There seem to be many different types of Concertina.  Below is the layout used here, I believe it's called a "duet concertina."  The left hand has basically the same layout as the right, but transposed down with some overlap.  (Images of duet concertinas here: https://www.concertina.info/tina.faq/conc-typ.htm)
 
 ### Left hand (bass)
 
