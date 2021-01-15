@@ -11,6 +11,7 @@ Download the raw keyboard layout [`concertina-raw.xml`](https://raw.githubuserco
 Configure VMPK to use the raw keyboard layout and set it to "raw" mode.
 
 ![](docs/vmpk-click-preferences.png)
+
 ![](docs/vmpk-preferences.png)
 
 Pick an instrument in VMPK.  "Accordion" or "Reed Organ" sound concertina-ish.
