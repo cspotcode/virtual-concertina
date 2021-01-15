@@ -1,37 +1,35 @@
 # Playing a virtual concertina on your PC
 
+Inspired by far too much Sea of Thieves during COVID, and also TikTok sea shanties.
+
 ## How to
 
-Download and install [Virtual MIDI Piano Keyboard](https://vmpk.sourceforge.io/) (VMPK)
+Download and install [Virtual MIDI Piano Keyboard](https://vmpk.sourceforge.io/) (VMPK)  This software lets you play your computer keyboard like an instrument.
 
-Download and install the keyboard layout `concertina.xml` from this Github repository.
+Download the raw keyboard layout [`concertina-raw.xml`](https://raw.githubusercontent.com/cspotcode/virtual-concertina/main/concertina-raw.xml) from this Github repository.
 
-Configure VMPK to use the keyboard layout.
+Configure VMPK to use the raw keyboard layout and set it to "raw" mode.
 
-## Resources
+![](docs/vmpk-click-preferences.png)
+![](docs/vmpk-preferences.png)
 
-Based on these resources, because I do not know much about music or musical instruments:
+Pick an instrument in VMPK.  "Accordion" or "Reed Organ" sound concertina-ish.
 
-* https://www.youtube.com/watch?v=1LTRErsh2kU
-* https://www.buttonbox.com/images/elise-notechart.png
+Press keyboard keys and notes should play.  A simple major scale starting with middle C is:
 
-See also:
-
-* https://github.com/mechanical-snail/vmpk_layouts_contrib
-* http://www.vetra.com/scancodes.html
+> N M , H J K L U
 
 ## Caveats / limitations
 
-* Doesn't simulate moving the bellows, or whatever that's called.
+* Windows only.  The keyboard layouts would have to be re-generated for other operating systems.
+* Doesn't simulate moving the bellows, or whatever it's called when you pull/push an accordion.
 * Most consumer computer keyboards will "lock" when too many keys are pressed at once, meaning certain chords may be impossible.  More expensive mechanical or gaming keyboards don't have this problem.
 
 ## Concertina layout
 
+There seem to be many different types of Concertina.  Below is the layout used here:
+
 ### Left hand (bass)
-
-C4 = middle C
-
-B->C and E->F are half-steps (no sharp/flat between them)
 
 ```text
        F4    G4    A4    B4
@@ -49,3 +47,21 @@ B->C and E->F are half-steps (no sharp/flat between them)
        F4    G4    A4    B4    C#5   D#5
          [C4]   D4    E4    F#4   G#4
 ```
+
+## Resources
+
+Based on these resources, because I do not know much about music or musical instruments:
+
+* https://www.youtube.com/watch?v=1LTRErsh2kU
+* https://www.buttonbox.com/images/elise-notechart.png
+
+See also:
+
+* https://github.com/mechanical-snail/vmpk_layouts_contrib
+* http://www.vetra.com/scancodes.html
+
+## Misc
+
+C4 = middle C
+
+B->C and E->F are half-steps (no sharp/flat between them)
