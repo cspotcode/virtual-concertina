@@ -32,6 +32,8 @@ There seem to be many different types of Concertina.  Below is the layout used h
 
 ### Left hand (bass)
 
+C3 is left shift, F3 is capslock, Bb3 is Tab, F4 is 1.
+
 ```text
        F4    G4    A4    B4
     Bb3  [C4]   D4    E4    F#4   G#4
@@ -40,6 +42,8 @@ There seem to be many different types of Concertina.  Below is the layout used h
 ```
 
 ### Right hand (treble, melody)
+
+C4 is N, F4 is H, Bb4 is U, F5 is 7, and Bb5 is F5
 
 ```text
     Bb5   C6    D6
